@@ -11,11 +11,3 @@ if user == 'y' or user == 'n':
             break
 else:
         print('You are type wrong ! please do agian ...')
-        
-
-
-
-
-                    
-
-
